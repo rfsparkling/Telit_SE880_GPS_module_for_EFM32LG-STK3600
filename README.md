@@ -1,4 +1,4 @@
-![layout preview](https://github.com/ha7dcd/Eagle-parts/blob/master/Telit_SE880_GPS_module_for_EFM32LG-STK3600/SE880_module_EFM32LG-STK3600_screenshot.png)
+![layout preview](https://github.com/rfsparkling/blob/master/Telit_SE880_GPS_module_for_EFM32LG-STK3600/SE880_module_EFM32LG-STK3600_screenshot.png)
 
 This is my evaluation board for interfacing Telit SE880 GPS chip module with EFM32LG-STK3600 EFM32 Leopard Gecko Starter Kit.
 
